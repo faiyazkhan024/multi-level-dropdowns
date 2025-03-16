@@ -12,7 +12,7 @@
   padding: 0.5rem;
   font-size: 1.2rem;
   font-weight: 400;
-  border: 1px solid var(--secondary-700);
+  border: 1px solid var(--secondary-dark);
   border-radius: var(--border-radius);
 }
 

@@ -12,7 +12,7 @@
   width: 100%;
   font-size: 1.2rem;
   font-weight: 400;
-  border: 1px solid var(--secondary-700);
+  border: 1px solid var(--secondary-dark);
   border-radius: var(--border-radius);
   appearance: none;
   background-image: var(--arrow-down);
@@ -32,5 +32,5 @@
 }
 
 .select option {
-  color: var(--secondary-700);
+  color: var(--secondary-dark);
 }

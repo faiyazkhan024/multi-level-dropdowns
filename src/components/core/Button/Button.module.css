@@ -3,7 +3,7 @@
   font-size: 1.2rem;
   border: none;
   border-radius: var(--border-radius);
-  color: var(--secondary-100);
+  color: white;
   background-color: var(--accent);
 }
 
