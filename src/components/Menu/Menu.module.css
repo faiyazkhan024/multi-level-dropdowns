@@ -1,11 +1,10 @@
-.nav li:has(ul) {
+.nav li:has(ul:not(:empty)) {
   display: flex;
   align-items: center;
   gap: 8px;
-  position: relative;
 }
 
-.nav li:has(ul)::after {
+.nav li:has(ul:not(:empty))::after {
   content: "";
   height: 5px;
   width: 5px;
