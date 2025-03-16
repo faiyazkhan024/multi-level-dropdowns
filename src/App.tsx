@@ -1,5 +1,11 @@
+import AppBar from "./components/AppBar";
+
 export const App = () => {
-  return <h1>Multi Level Dropdowns</h1>;
+  return (
+    <>
+      <AppBar />
+    </>
+  );
 };
 
 export default App;
